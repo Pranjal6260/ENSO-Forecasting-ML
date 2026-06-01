@@ -1,1 +1,5 @@
+# Dataset
 
+The dataset used in this project can be accessed here:
+- ERA5 Dataset: https://cds.climate.copernicus.eu/datasets
+Due to file size limitations, the complete dataset is not stored in this repository.
